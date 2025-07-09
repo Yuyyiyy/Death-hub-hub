@@ -5,8 +5,8 @@ local HttpService = game:GetService("HttpService")
 
 -- 💀 Script Data Structure
 local buttonsPagesData = {
-    {Text = "AUTOGRAB BASE", ScriptLink = ""},
-    {Text = "INSTANT SPAWN", ScriptLink = ""},
+    {Text = "AUTOGRAB BASE", ScriptLink = "https://pastefy.app/kS9BglBQ/raw"}"},
+    {Text = "INSTANT SPAWN", ScriptLink = "https://pastebin.com/raw/GM8KTmjZ"}"},
     {Text = "AUTO GRAB", ScriptLink = "https://gist.githubusercontent.com/Yuyyiyy/eb3b21915928414653a2b8dd9a40980e/raw/782a51c0004924e47d86c0c008acd280e5af16c3"},
     {Text = "SPT AUTOGRAB", ScriptLink = "https://pastebin.com/raw/MHN7tVU8"},
     {Text = "USETOOLS", ScriptLink = "https://pastebin.com/raw/HQdjVm7g"},
