@@ -12,11 +12,11 @@ local buttonsPagesData = {
     {Text = "USETOOLS", ScriptLink = ""},
     {Text = "LOOPBRING", ScriptLink = ""},
     {Text = "DAMAGE HITBOX", ScriptLink = ""},
-    {Text = "AURA", ScriptLink = ""},
-    {Text = "ANTI MOVEMENT", ScriptLink = ""},
-    {Text = "NO COOLDOWN", ScriptLink = ""},
-    {Text = "FEAR", ScriptLink = ""},
-    {Text = "FINAL DOOM", ScriptLink = ""}
+    {Text = "AURA", ScriptLink = "https://pastebin.com/raw/qZPVbxFc"},
+    {Text = "ANTI MOVEMENT", ScriptLink = "https://pastebin.com/raw/1Ms8UVsR"},
+    {Text = "NO COOLDOWN", ScriptLink = "https://pastebin.com/raw/WzdzWTZd"},
+    {Text = "LAG SERVER", ScriptLink = "https://gist.githubusercontent.com/Yuyyiyy/6f38723afc3d835dc1f8bc96b9f61bd8/raw/9d7b2525de18a7f1220d5c78fcfdf34b7da5e05f"},
+    {Text = "FPS", ScriptLink = "https://pastebin.com/raw/TJTb4nmD"}
 }
 
 local player = Players.LocalPlayer
